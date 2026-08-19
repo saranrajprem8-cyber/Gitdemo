@@ -1,0 +1,3 @@
+install pythom
+pip install
+pandas install
